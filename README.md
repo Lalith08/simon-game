@@ -1,4 +1,4 @@
-# simon-game
+# simon-game  #JQuery
  This is a web-based implementation of the classic Simon game. Simon is a memory game where players must repeat a sequence of button presses in the same order that they were presented. With each successful round, the sequence gets longer and more challenging.
 
  How to Play:
